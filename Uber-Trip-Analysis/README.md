@@ -79,3 +79,12 @@ Effective use of slicers for multi-page reports
 Visual storytelling for non-technical users
 Layering analytics for both overview & time-series depth
 
+
+## 📷 Dashboard Previews
+
+![Overview Dashboard](Uber-Trip-Analysis/OVERVIEW.png)
+
+
+### 🔹 Time Analysis Page
+![Time Analysis Dashboard](Time Series Analysis.png)
+
