@@ -15,3 +15,8 @@ CALCULATE(
         'Date'[Date] <= MAX('Date'[Date])
     )
 )
+
+
+## 📚 Source
+
+DAX logic and methodology adapted from tutorials by [Goodly Chandeep](https://www.youtube.com/@GoodlyChandeep/videos).
