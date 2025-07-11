@@ -85,6 +85,13 @@ Layering analytics for both overview & time-series depth
 ![Overview Dashboard](Uber-Trip-Analysis/OVERVIEW.png)
 
 
+
+### Credits
+
+Inspired by [@datatutorials1](https://www.youtube.com/@datatutorials1)
+
+
+
 ### 🔹 Time Analysis Page
 ![Time Analysis Dashboard](Time Series Analysis.png)
 
