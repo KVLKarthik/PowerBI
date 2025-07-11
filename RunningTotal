@@ -1,0 +1,9 @@
+### `RunningTotal.pbix`
+
+This report demonstrates a running total (cumulative) DAX measure using:
+
+```dax
+CALCULATE(
+    [Total Sales],
+    FILTER(ALL('Date Table'[Date]), 'Date Table'[Date] <= MAX('Date Table'[Date]))
+)
