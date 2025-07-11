@@ -1,9 +1,9 @@
 # PowerBI
-Power BI models and DAX measures developed across project workflows, with focus on data modeling, evaluation metrics, and interactive reporting.
-Ongoing repository of DAX expressions and Power BI logic 
+▶ Overview | 🔧 Tools Used | 🧠 Key Concepts | 📊 Sample Visuals | 📂 Repo Structure
 
 
-## 📚 References / Credits
+Trying to make sense of DAX while building dashboards that actually make sense. This repo is my data diary, one relationship error at a time.
 
-- Adapted from the Goodly YT, https://www.youtube.com/@GoodlyChandeep/videos
+
+
 
