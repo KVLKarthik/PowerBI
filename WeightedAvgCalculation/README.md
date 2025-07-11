@@ -37,3 +37,11 @@ VAR SUMMMARISEDTABLE =
     )
 
 RETURN SUMX(SUMMMARISEDTABLE, [SALESWT] * [MONTHLYSALES])
+
+
+---
+
+## 📚 Source
+
+DAX logic and methodology adapted from tutorials by [Goodly Chandeep](https://www.youtube.com/@GoodlyChandeep/videos).
+
